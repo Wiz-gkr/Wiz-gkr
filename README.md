@@ -7,7 +7,7 @@
 Exploring **Cybersecurity • Ethical Hacking • Linux • Networking**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Goutham%20Krishna%20R-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/gouthamkrishnar/)
-[![GitHub](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=GitHub\&style=flat-square\&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/github/followers/https://github.com/Wiz-gkr?label=GitHub\&style=flat-square\&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -184,6 +184,6 @@ Web Security                      ███████░░░░░
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=Profile%20Views\&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=https://github.com/Wiz-gkr\&label=Profile%20Views\&style=flat-square)
 
 </div>
